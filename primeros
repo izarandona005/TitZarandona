@@ -1,4 +1,4 @@
-Primeros pasos:
+lsPrimeros pasos:
 
 git init
 
@@ -9,3 +9,5 @@ Metes los archivos que quieras:
 	git commit -m "Nombre del Commit"
 	git push -u origin master
 Te autenticas y listo.
+
+Zaran puto
